@@ -64,4 +64,4 @@ The model is deployed as an Azure ML Endpoint. Refer [here](https://medium.com/@
 Please, feel free to submit pull requests.
 
 ## **License**
-This project is licensed under the MIT License - see the LICENSE.md file for details.
+This project is licensed under the MIT License.
