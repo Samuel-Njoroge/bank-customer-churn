@@ -7,7 +7,7 @@ Rated Bank, a financial institution, aims to solve their challenge of customers 
 This project implements a machine learning model to predict customer churn for Rated Bank. It utilizes Azure cloud services for data storage, model training, and deployment.
 
 ## **Architecture.**
-![](https://github.com/Samuel-Njoroge/bank-customer-churn/blob/main/diagrams/AI_jobs_insights-Page-2.svg)
+![](https://github.com/Samuel-Njoroge/bank-customer-churn/blob/main/diagrams/Azure_Projects-Machine%20learning.svg)
 
 ## **Technology Stack.**
 - Data Storage: Bank application database → Azure Blob Storage
